@@ -12,7 +12,7 @@ export function convertMarkdownFile(folderMap: Map<string, string[]>): string {
     let markdown = `
 # learn-for-python
 
-learning for python from 2023-01-09
+learning for python from 2023-01-09 [![README Generator](https://github.com/unchaptered/learn-for-python/actions/workflows/generator-readme.yaml/badge.svg)](https://github.com/unchaptered/learn-for-python/actions/workflows/generator-readme.yaml)
 
 Other projects
 
