@@ -10,7 +10,7 @@ Other projects
 
 ## Chapters
 
-1. [do it jump to python](https://github.com/unchaptered/docker-and-kubernetes/tree/main/1_do_it_jump_to_python)
-   1. [prerequisites](https://github.com/unchaptered/docker-and-kubernetes/tree/main/1_do_it_jump_to_python/0_prerequisites)
-   2. [what is python](https://github.com/unchaptered/docker-and-kubernetes/tree/main/1_do_it_jump_to_python/1_what_is_python)
-   3. [base syntax](https://github.com/unchaptered/docker-and-kubernetes/tree/main/1_do_it_jump_to_python/2_base_syntax)
+1. [do it jump to python](https://github.com/unchaptered/learn-for-python/tree/main/1_do_it_jump_to_python)
+   1. [prerequisites](https://github.com/unchaptered/learn-for-python/tree/main/1_do_it_jump_to_python/0_prerequisites)
+   2. [what is python](https://github.com/unchaptered/learn-for-python/tree/main/1_do_it_jump_to_python/1_what_is_python)
+   3. [base syntax](https://github.com/unchaptered/learn-for-python/tree/main/1_do_it_jump_to_python/2_base_syntax)
