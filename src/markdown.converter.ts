@@ -23,7 +23,7 @@ Other projects
 
 `;
 
-    const BASE_URL = 'https://github.com/unchaptered/docker-and-kubernetes/tree/main/';
+    const BASE_URL = 'https://github.com/unchaptered/learn-for-python/tree/main/';
 
     const folderEntries = [...folderMap].sort();
     // console.log(folderEntries);
